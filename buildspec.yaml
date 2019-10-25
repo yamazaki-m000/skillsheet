@@ -1,0 +1,12 @@
+version: 0.1
+
+phases:
+  install:
+    commands:
+      - gem install asciidoctor
+  build:
+    commands:
+      - asciidoctor -b html スキルシート.adoc -D deploy
+  post_build:
+    commands:
+      - aws s3 sync deploy s3://skillsheet-bucket --delete --acl public-read
