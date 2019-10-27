@@ -11,4 +11,4 @@ phases:
       - asciidoctor -b html スキルシート.adoc -D deploy
   post_build:
     commands:
-      - aws s3 sync deploy s3://skillsheet-bucket --delete --acl public-read
+      - aws s3 sync deploy s3://skillsheet-bucket --delete
