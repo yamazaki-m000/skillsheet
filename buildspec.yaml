@@ -8,7 +8,7 @@ phases:
       - gem install asciidoctor
   build:
     commands:
-      - asciidoctor -b html skillsheet.adoc -D deploy/
+      - asciidoctor -b html *.adoc -D deploy/
       - cp develop_actual*.png deploy/
   post_build:
     commands:
