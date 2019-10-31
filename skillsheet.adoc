@@ -5,7 +5,7 @@
 [NOTE]
 ====
 このスキルシートは、AsciiDoc記法で書いたテキストファイルをhtmlに変換したものになります。 +
-元のテキストファイルは、 https://github.com/yamazaki-m000/skillsheet[GitHub] で管理してあり、このGitHubには自動デプロイの設定をしているため、常に最新のものをURLより閲覧できます。
+なお、変換元のテキストファイルは、 https://github.com/yamazaki-m000/skillsheet[GitHub] で管理してあり、自動デプロイの設定により、常に最新のものをURLより閲覧できます。
 ====
 
 == 基本情報
