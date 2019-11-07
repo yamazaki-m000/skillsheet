@@ -1,7 +1,14 @@
 version: '3'
 services:
   asciidoctor:
+    image: htakeuchi/docker-asciidoctor-jp
+    # command: tail -f /dev/null
+    command: asciidoctor-pdf -r asciidoctor-pdf-cjk -a data-uri *.adoc
+    volumes:
+      - .:/work
+
+  chrome:
     build: .
-    command: tail -f /dev/null
+    command: tail /dev/null
     volumes:
       - .:/work

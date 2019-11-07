@@ -1,6 +1,7 @@
 = 山崎 雅人のスキルシート
 :toc: left
 :toclevels: 3
+:doctype: book
 
 [NOTE]
 ====
@@ -10,7 +11,7 @@
 
 == 基本情報
 氏名:: 山崎　雅人（やまざき　まさと）
-年齢:: 26歳
+年齢:: 24歳
 性別:: 男
 最寄駅:: JR山手線　田端駅
 
@@ -30,7 +31,7 @@ NOTE: 「社内開発案件の契約形態見直し」「プロジェクト標�
 しかし、インフラ経験と比べると、経験が浅いと感じております。
 
 私自身、まだまだ未熟だと感じており、これまで毎日の学習を継続してきました。 +
-至らない点があるかと思いますが、絶え間ぬ努力をしていきますので、よろしくお願いいたします。
+至らない点があるかと思いますが、絶え間ない努力をしていきますので、よろしくお願いいたします。
 
 == 職務履歴
 === 1. _2019/03 ～ 現在_　請負開発チーム チームリーダー
@@ -121,7 +122,7 @@ IoT、ビックデータ、AWSに関連する請負案件に参画し、AWS技�
 2019/02 ～ 2019/03
 
 [.underline]#用いた技術要素#::
-Amazon ECS（Fargate）, Amazon S3, Amazon Athena, Python, Docker, AWS CloudFormation
+Amazon ECS（Fargate）, Amazon S3, Amazon Athena, Python3.7, Docker, AWS CloudFormation
 
 [.underline]#自身の役割とミッション#::
 当プロジェクトは、技術的課題を抱えており、この課題を解決するために、AWS技術リードとして途中参画しました。
@@ -143,7 +144,7 @@ Dailyバッチの集計対象データがビックデータであり、これが
 2018/10 ～ 2019/02
 
 [.underline]#用いた技術要素#::
-Java, SpringBoot, Bootstrap, JavaScript, JQuery, C#, Amazon EC2, AWS Batch, Amazon RDS, AWS CloudFormation, Ansible, Vagrant, VirtualBox
+Java1.8, SpringBoot, Bootstrap, JavaScript, JQuery, C#, Amazon EC2, AWS Batch, Amazon RDS, AWS CloudFormation, Ansible, Vagrant, VirtualBox
 
 [.underline]#主な作業内容#::
 当プロジェクトでは、下記を担当した。
@@ -174,10 +175,10 @@ Java, SpringBoot, Bootstrap, JavaScript, JQuery, C#, Amazon EC2, AWS Batch, Amaz
 EC2, Lambda, S3, DynamoDB, RDS, ElastiCache, API Gateway, CloudFront, ELB, Route53, SNS, SQS, Auto Scalling, CloudFormation, CloudWatch, Cognito, Kinesis, Redshift +
  +
 *プログラミング言語* +
-Java（SpringBoot）, Python, JavaScript
+Java 1.8, SpringBoot, Python 3.7, JavaScript
  +
 *OS* +
-AmazonLinux, CentOS, Ubuntu +
+AmazonLinux, CentOS 6, Ubuntu +
  +
 *Webサーバー* +
 Apache +
