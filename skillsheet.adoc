@@ -53,7 +53,7 @@ NOTE: システム詳細は<<develop_actual,開発実績>>を参照ください�
 400人日/6人
 
 [.underline]#用いた技術要素#::
-Python / Docker, Docker Compose / Amazon Batch / AWS IoT, Amazon DynamoDB, Amazon S3, AWS CloudFormation
+Python3.7 / Docker, Docker Compose / Amazon Batch / AWS IoT, Amazon DynamoDB, Amazon S3, AWS CloudFormation
 
 [.underline]#自身の役割とミッション#::
 プリセールス、要求・要件定義とアーキテクチャー検討をメインに担当しました。 +
@@ -122,7 +122,7 @@ IoT、ビックデータ、AWSに関連する請負案件に参画し、AWS技�
 2019/02 ～ 2019/03
 
 [.underline]#用いた技術要素#::
-Amazon ECS（Fargate）, Amazon S3, Amazon Athena, Python3.7, Docker, AWS CloudFormation
+Amazon ECS（Fargate）, Amazon S3, Amazon Athena, Python3.7, Docker, AWS CloudFormation, mysql5.7
 
 [.underline]#自身の役割とミッション#::
 当プロジェクトは、技術的課題を抱えており、この課題を解決するために、AWS技術リードとして途中参画しました。
@@ -144,7 +144,7 @@ Dailyバッチの集計対象データがビックデータであり、これが
 2018/10 ～ 2019/02
 
 [.underline]#用いた技術要素#::
-Java1.8, SpringBoot, Bootstrap, JavaScript, JQuery, C#, Amazon EC2, AWS Batch, Amazon RDS, AWS CloudFormation, Ansible, Vagrant, VirtualBox
+Java8, SpringBoot2, Bootstrap4, JavaScript, JQuery, C#, mysql5.7, Amazon EC2, AWS Batch, Amazon RDS, AWS CloudFormation, Ansible, Vagrant, VirtualBox
 
 [.underline]#主な作業内容#::
 当プロジェクトでは、下記を担当した。
@@ -175,16 +175,16 @@ Java1.8, SpringBoot, Bootstrap, JavaScript, JQuery, C#, Amazon EC2, AWS Batch, A
 EC2, Lambda, S3, DynamoDB, RDS, ElastiCache, API Gateway, CloudFront, ELB, Route53, SNS, SQS, Auto Scalling, CloudFormation, CloudWatch, Cognito, Kinesis, Redshift +
  +
 *プログラミング言語* +
-Java 1.8, SpringBoot, Python 3.7, JavaScript
+Java8, SpringBoot1, Python3.6, JavaScript
  +
 *OS* +
-AmazonLinux, CentOS 6, Ubuntu +
+AmazonLinux, CentOS6, Ubuntu +
  +
 *Webサーバー* +
 Apache +
  +
 *DB* +
-MySQL, PostgreSQL, Treasure Data +
+MySQL5.7, PostgreSQL, Treasure Data +
  +
 *仮想化* +
 Vagrant, VirtualBox +
