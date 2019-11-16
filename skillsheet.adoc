@@ -1,7 +1,6 @@
 = 山崎 雅人のスキルシート
 :toc: left
 :toclevels: 3
-:doctype: book
 
 [NOTE]
 ====
