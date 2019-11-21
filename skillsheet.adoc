@@ -227,3 +227,5 @@ image::develop_actual_solar_system.png[]
 == 関連ページ
 
 * link:personal_history.html[山崎 雅人の履歴書]
+
+* link:TechFunMagazine-December-number.pdf[TechFun Magazine12月号で褒められランキング1位に選ばれました！]

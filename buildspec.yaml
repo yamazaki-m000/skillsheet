@@ -10,6 +10,8 @@ phases:
     commands:
       - asciidoctor -b html *.adoc -D deploy/
       - cp develop_actual*.png deploy/
+      - cp *.pdf deploy/
+      - cp qualify/*.pdf deploy/qualify/
   post_build:
     commands:
       - aws s3 sync deploy/ s3://skillsheet-bucket --delete

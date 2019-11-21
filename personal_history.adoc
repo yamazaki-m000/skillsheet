@@ -18,6 +18,12 @@
 配偶者:: 有
 扶養家族:: 0 人
 
+== 資格
+
+* link:qualify/AWSCertifiedSolutionsArchitect-AssociateCertificate.pdf[AWSソリューションアーキテクト – アソシエイト] 2019年5月取得
+* link:qualify/LinuCLevel1Certification.pdf[LinuC Level1] 2018年12月取得
+* link:qualify/OracleCertifiedJavaProgrammerBronze.pdf[Oracle Java SE Bronze] 2017年10月取得
+
 == 学歴
 
 [cols="1,1,6"", options="header"]
@@ -133,3 +139,5 @@
 == 関連ページ
 
 * link:skillsheet.html[山崎 雅人のスキルシート]
+
+* link:TechFunMagazine-December-number.pdf[TechFun Magazine12月号で褒められランキング1位に選ばれました！]
