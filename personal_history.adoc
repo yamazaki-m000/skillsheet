@@ -18,6 +18,9 @@
 配偶者:: 有
 扶養家族:: 0 人
 
+image::201708_証明写真.jpg[]
+
+
 == 資格
 
 * link:qualify/AWSCertifiedSolutionsArchitect-AssociateCertificate.pdf[AWSソリューションアーキテクト – アソシエイト] 2019年5月取得
