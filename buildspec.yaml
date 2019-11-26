@@ -9,7 +9,8 @@ phases:
   build:
     commands:
       - asciidoctor -b html *.adoc -D deploy/
-      - cp develop_actual*.png deploy/
+      - cp *.png deploy/
+      - cp *.jpg deploy/
       - cp *.pdf deploy/
       - cp -r qualify/ deploy/qualify/
   post_build:
